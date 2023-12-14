@@ -1,0 +1,4 @@
+export const meta = {
+    title: "Overworld End Hub",
+    short: "A MadShinoa´s desing for a end portal in the overworld!"
+};
